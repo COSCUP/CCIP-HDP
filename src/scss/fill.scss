@@ -66,4 +66,13 @@
       margin-right: 1rem;
     }
   }
+
+  p {
+    margin: 1rem 0;
+    margin-top: 3rem;
+    color: $dark-2;
+    cursor: pointer;
+    text-align: center;
+    line-height: 1.4;
+  }
 }

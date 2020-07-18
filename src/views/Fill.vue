@@ -25,6 +25,9 @@
       <span>下一步｜Next</span>
       <font-awesome-icon :icon="['fas', 'arrow-right']" />
     </div>
+    <p @click="$router.push({ name: 'Landing', query: { scanner: 'yes' } })">
+      我要掃 QR Code<br />I need to scan QR Code
+    </p>
   </div>
 </template>
 
