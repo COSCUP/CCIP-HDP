@@ -1,6 +1,5 @@
 ---
 title: COSCUP 2020 COVID-19 健康聲明
-endpoint: https://hd.coscup.org/
 callback: https://dl.opass.app/?link=https%3A%2F%2Fopass.app%2Fopen%2F%3Fevent_id%3DCOSCUP_2020%26token%3D<<TOKEN>>&apn=app.opass.ccip&amv=40&isi=1436417025&ibi=app.opass.ccip
 fields:
   - label:
@@ -28,6 +27,12 @@ fields:
 # <!-- !WARNING! DO NOT CHANGE ANYTHING UNLESS YOU UNDERSTAND WHAT ARE YOU ACTUALLY DO  -->
 ---
 # COSCUP 2020 COVID-19 健康聲明
+
+:::spotlight-danger
+將於 7/30 開放填寫，稍晚再回來填寫吧！
+
+Will be open on Jul 30, please come back later.
+:::
 
 :::spotlight-danger
 請注意，若欲順利進入 COSCUP 年會會場，以下旅遊史、追蹤措施、接觸史、是否群聚皆須為「否」，如有不實填報，須負民事、刑事及行政等相關法律責任；如您有任何項目為「是」，請您放棄填寫問卷，待狀況解除後再行填寫。

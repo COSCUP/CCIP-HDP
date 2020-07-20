@@ -1,5 +1,9 @@
 <template>
   <div class="fill fill-container">
+    <div class="spotlight spotlight-danger">
+      <p>將於 7/30 開放填寫，稍晚再回來填寫吧！</p>
+      <p>Will be open on Jul 30, please come back later.</p>
+    </div>
     <div v-for="field in fields" :key="field.type" class="fill">
       <input
         :type="field.type"
