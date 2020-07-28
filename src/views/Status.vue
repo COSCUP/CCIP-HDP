@@ -18,8 +18,8 @@
     </p>
     <div v-if="callback && !appMode" class="button" @click="openOPass">
       <img src="https://opass.app/img/logo.png" alt="" />
-      <p>直接匯出 OPass 票卷</p>
-      <p>Export OPass ticket directly</p>
+      <p>匯入到 OPass，參與大地遊戲及更多功能都在 OPass</p>
+      <p>Export to OPass, join the booth reward activity</p>
     </div>
   </div>
 </template>
